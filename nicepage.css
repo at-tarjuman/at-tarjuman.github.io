@@ -37972,6 +37972,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-text-2 {
   width: 434px;
   background-image: none;
+  font-size: 0.875rem;
   margin: 17px auto 52px;
 }
 @media (max-width: 1199px) {
@@ -37993,7 +37994,9 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-text-2 {
     width: auto;
     font-size: 0.75rem;
-    margin: 17px -50px 60px;
+    margin-left: -50px;
+    margin-right: -50px;
+    margin-bottom: 60px;
   }
 }
 
