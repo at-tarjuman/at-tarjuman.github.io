@@ -28,6 +28,10 @@
   .u-section-1 .u-sheet-1 {
     min-height: 660px;
   }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+  }
 }
 
 @media (max-width: 991px) {
