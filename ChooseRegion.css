@@ -10,6 +10,10 @@
   margin: 20px auto 53px;
 }
 
+img {
+  width: 50%;
+  height: auto;
+  }
 
 .u-section-1 .u-repeater-1 {
   min-height: 375px;
