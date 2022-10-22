@@ -2134,7 +2134,7 @@ input, select, textarea {
 			}
 		
 			img {
-				width: 100%;
+				width: auto;
 				height: auto;
 			  }
 
@@ -3620,7 +3620,7 @@ input, select, textarea {
 				display: block;
 				height: 2px;
 				position: absolute;
-				width: 100%;
+				width: auto;
 			}
 
 			#banner h2:before {
