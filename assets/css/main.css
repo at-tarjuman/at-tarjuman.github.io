@@ -2132,11 +2132,6 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
-		
-			img {
-				width: 500;
-				height: auto;
-			  }
 
 /* List */
 
@@ -3620,7 +3615,7 @@ input, select, textarea {
 				display: block;
 				height: 2px;
 				position: absolute;
-				width: auto;
+				width: 100%;
 			}
 
 			#banner h2:before {
