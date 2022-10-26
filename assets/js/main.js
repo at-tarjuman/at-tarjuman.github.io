@@ -79,5 +79,6 @@
 			});
 
 		}
-
+		document.addEventListener('contextmenu', event => event.preventDefault());
 })(jQuery);
+document.addEventListener('contextmenu', event => event.preventDefault());
