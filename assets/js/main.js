@@ -79,5 +79,4 @@
 			});
 
 		}
-		document.addEventListener('contextmenu', event => event.preventDefault());
 })(jQuery);
