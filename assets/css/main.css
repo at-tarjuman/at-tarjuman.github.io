@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #168178;
 			color: #c8ece9;
 		}
 
@@ -3411,7 +3411,7 @@ input, select, textarea {
 			position: absolute;
 			right: 0;
 			top: 0;
-			vertical-align: middle;
+			
 			width: 7em;
 		}
 
@@ -3577,7 +3577,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		cursor: default;
-		height: 110vh;
+		height: 100vh;
 		min-height: 35em;
 		overflow: hidden;
 		position: relative;
