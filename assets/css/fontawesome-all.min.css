@@ -6010,14 +6010,6 @@
     content: "\f168"
 }
 
-.icon-lillah:before { 
-    content: '\e800'; 
-}
-
-.icon-mail-alt:before { 
-    content: '\f0e0'; 
-}
-
 .fa-xing-square:before {
     content: "\f169"
 }
@@ -6129,19 +6121,6 @@
     font-display: block;
     src: url(../webfonts/fa-solid-900.eot);
     src: url(../webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(../webfonts/fa-solid-900.woff2) format("woff2"), url(../webfonts/fa-solid-900.woff) format("woff"), url(../webfonts/fa-solid-900.ttf) format("truetype"), url(../webfonts/fa-solid-900.svg#fontawesome) format("svg")
-}
-
-@font-face {
-    font-family: 'fontello';
-    src: url('../font/fontello.eot?14790342');
-    src: url('../font/fontello.eot?14790342#iefix') format('embedded-opentype'),
-         url('../font/fontello.woff2?14790342') format('woff2'),
-         url('../font/fontello.woff?14790342') format('woff'),
-         url('../font/fontello.ttf?14790342') format('truetype'),
-         url('../font/fontello.svg?14790342#fontello') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    
 }
 
 .fa,

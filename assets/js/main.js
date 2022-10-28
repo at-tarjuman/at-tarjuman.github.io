@@ -5,7 +5,7 @@
 		$wrapper = $('#page-wrapper'),
 		$banner = $('#banner'),
 		$header = $('#header');
-
+	
 	// Breakpoints.
 		breakpoints({
 			xlarge:   [ '1281px',  '1680px' ],
