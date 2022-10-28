@@ -1817,7 +1817,7 @@
 	body.is-mobile {
 		#main {
 			> header {
-				background-attachment: scroll;
+				background-attachment: fixed;
 			}
 		}
 	}

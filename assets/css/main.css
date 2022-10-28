@@ -3986,6 +3986,7 @@ input, select, textarea {
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
+		padding: 170px 0px 170px 0px
 	}
 
 	body.is-mobile.landing #footer {
