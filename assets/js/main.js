@@ -71,8 +71,8 @@
 				enter:		function() { $header.addClass('alt'); },
 				leave:		function() { $header.removeClass('alt'); }
 			});
-
 		}
+		
 })(jQuery);
 
 function websiteVisits(response) {
